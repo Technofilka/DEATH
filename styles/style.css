@@ -1,0 +1,39 @@
+html {
+  background-color: #100013;
+  font-family: 'Pacifico', cursive;
+  text-shadow: 3px 3px 4px white;
+  color: floralwhite;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+}
+
+h1 {
+  font-size: 64px;
+  text-align: center;
+}
+
+p {
+  font-size: 24px;
+
+  line-height: 1.7;
+  letter-spacing: 2px;
+}
+
+strong {
+    font-size: 32px;
+    border: solid black;
+    color: black;
+}
+
+a[href] {
+    font-size: 40px;
+    color: blue;
+}
+
+h2 {
+    color: #100013;
+}
